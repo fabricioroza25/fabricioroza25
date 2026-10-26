@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Fabrício Roza 👋
 
-<!--
-**fabricioroza25/fabricioroza25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do **6º semestre de Ciência da Computação** na Universidade Paulista (UNIP). Tenho interesse na área de tecnologia, focando em sistemas embarcados, Internet das Coisas (IoT), visão computacional e desenvolvimento de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Áreas de Interesse
+- Internet das Coisas (IoT)
+- Visão Computacional e Inteligência Artificial
+- Modelagem e Banco de Dados
+- Sistemas Embarcados (Raspberry Pi, ESP32)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, C/C++, SQL
+- **Plataformas & Hardware:** Raspberry Pi, ESP32, Arduino
+- **Ferramentas & Outros:** Git & GitHub, Banco de Dados Relacionais, Linux
+
+---
+
+### 🚀 Projetos em Destaque
+- **Plataforma EarthSense:** Sistema inteligente de segurança veicular baseado em IoT e IA para detecção de fadiga e sonolência do condutor.
