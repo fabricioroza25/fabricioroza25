@@ -1,6 +1,6 @@
 # Olá, eu sou o Fabrício Roza 👋
 
-Estudante do **6º semestre de Ciência da Computação** na Universidade Paulista (UNIP). Tenho interesse na área de tecnologia, focando em sistemas embarcados, Internet das Coisas (IoT), visão computacional e desenvolvimento de software.
+Estudante do **7º semestre de Ciência da Computação** na Universidade Paulista (UNIP). Tenho interesse na área de tecnologia, focando em sistemas embarcados, Internet das Coisas (IoT), visão computacional e desenvolvimento de software.
 
 ---
 
